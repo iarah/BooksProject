@@ -1,0 +1,8 @@
+#info
+Python version: 2.7.3
+Django version: 1.4.3
+SQLite3 
+
+Para el sitio de administración de Django, 
+usuario: admin
+contraseña: admin
